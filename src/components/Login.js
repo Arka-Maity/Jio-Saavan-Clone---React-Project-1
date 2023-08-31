@@ -193,7 +193,7 @@ const Login = () => {
               </form>
             </div>
             <h1 className="italic font-thin">
-              Use "haider@haider.com" as Email & Password{" "}
+              Use "arka@arka.com" as Email & Password{" "}
             </h1>
           </div>
         </div>
